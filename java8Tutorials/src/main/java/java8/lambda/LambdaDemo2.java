@@ -9,7 +9,7 @@ interface Calculator
  * @author saurav
  *
  */
-public class LamdaDemo2 
+public class LambdaDemo2 
 {
 	public static void main(String[] args) 
 	{
