@@ -1,8 +1,14 @@
 package java8.lambda;
+
 interface Calc
 {
 	void add(int a,int b);
 }
+/**
+ * 
+ * @author saurav
+ *
+ */
 public class LambdaDemo5 
 {
 	public LambdaDemo5(int x,int y)
