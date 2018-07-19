@@ -1,9 +1,17 @@
 package java8.functionalInterface;
 
 import java.util.function.Consumer;
-
+/**
+ * 
+ * @author saurav
+ *
+ */
 public class ConsumerInterfaceDemo1 
 {
+	/**
+	 * print Message
+	 * @param name
+	 */
 	public static void printMessage(String name){  
 		System.out.println("Welcome "+name);  
 	}  
