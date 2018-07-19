@@ -9,6 +9,11 @@ import java.util.function.Predicate;
  */
 public class PredicateInterfaceDemo1 
 {
+	/**
+	 * check Speed
+	 * @param speed
+	 * @return
+	 */
 	public static Boolean checkSpeed(int speed)
 	{  
 		if(speed>20)
