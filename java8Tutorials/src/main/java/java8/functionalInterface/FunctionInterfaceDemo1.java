@@ -8,7 +8,8 @@ import java.util.function.Function;
  */
 public class FunctionInterfaceDemo1 
 {
-	public static Integer show(String message){  
+	public static Integer show(String message)
+	{  
 		return Integer.parseInt(message);  
 	}  
 	public static void main(String[] args) 
